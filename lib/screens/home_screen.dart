@@ -117,7 +117,7 @@ class _HomeScreenState extends State<HomeScreen> {
 
                     const Text(
                       'Indian',
-                      style: TextStyle(fontSize: 18, color: Colors.orange),
+                      style: TextStyle(fontSize: 18, color: Colors.deepOrange),
                     ),
                     const SizedBox(height: 16),
 
